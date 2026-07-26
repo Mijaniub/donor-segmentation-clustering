@@ -1,10 +1,10 @@
-# 🎯 Donor Segmentation using Unsupervised Machine Learning
+#  Donor Segmentation using Unsupervised Machine Learning
 
 > Identifying meaningful donor profiles through clustering techniques to support data-driven fundraising strategies.
 
 ---
 
-## 📖 Overview
+##  Overview
 
 This project applies **Unsupervised Machine Learning** techniques to segment donors based on demographic, socioeconomic, and historical donation behavior.
 
@@ -14,7 +14,7 @@ This project was completed as part of the **Data Science & Machine Learning** co
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 Many nonprofit organizations send the same fundraising campaigns to every donor, regardless of their interests or donation history. This often results in lower engagement and reduced campaign effectiveness.
 
@@ -56,7 +56,7 @@ The dataset contains historical information about potential donors, including:
 
 ---
 
-## 🚀 Project Workflow
+##  Project Workflow
 
 ### 1. Data Preprocessing
 
@@ -122,7 +122,7 @@ Based on the identified donor segments, practical recommendations were proposed 
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 | Category | Tools |
 |----------|-------|
@@ -187,7 +187,7 @@ donor-segmentation-clustering/
 
 ---
 
-# 💡 Skills Demonstrated
+#  Skills Demonstrated
 
 - Data Cleaning
 - Exploratory Data Analysis
@@ -203,7 +203,7 @@ donor-segmentation-clustering/
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 - Hierarchical Clustering
 - DBSCAN
@@ -214,7 +214,7 @@ donor-segmentation-clustering/
 
 ---
 
-# 📸 Sample Visualizations
+#  Sample Visualizations
 
 This repository includes visualizations such as:
 
@@ -228,7 +228,7 @@ This repository includes visualizations such as:
 
 ---
 
-# 📦 Installation
+#  Installation
 
 Clone the repository:
 
